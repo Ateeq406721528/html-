@@ -1,0 +1,21 @@
+.Text {
+    position:relative;
+   
+}
+.image1 {
+width:100%;
+height:auto;
+}
+.Text {
+    position:absolute;
+    top:70%;
+    left:8%;
+    color:white;
+    padding:100px;
+}
+.Text {
+    font: size 500px;
+    font-style: normal;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
